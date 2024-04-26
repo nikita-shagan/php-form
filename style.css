@@ -346,6 +346,7 @@ body {
 
 .promo__card {
   display: block;
+  border-radius: 24px;
 }
 
 @media screen and (max-width: 1024px) {
